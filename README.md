@@ -1,4 +1,4 @@
-#  🔥Easy extension of Color to use hexCodes in Swift
+#  🔥Easy extension of Color to use convert HexColors to UIColors in Swift
 ## This simple extension makes it possible to use hexCodes while programmingin Swift. I did not create it myself (just asked chatGPT lol) , but wanted to share it on my profile to make it more easily accesible
 
 ### 🎨 Where to find some cool Colourpalettes:
